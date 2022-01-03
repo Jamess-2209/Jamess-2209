@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there 👋 I'm Jamess, I am a student who really likes computer science
+###
+###
 <!--
 **Jamess-2209/Jamess-2209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jamess-2209)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jamess-2209&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jamess-2209&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
